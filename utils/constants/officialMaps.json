@@ -1,8 +1,8 @@
 [
   {
     "_id": "6715ee843591e89d4f13b9a6",
-    "name": "World (hard)",
-    "description": "You will struggle.",
+    "name": "World",
+    "description": "A map of places all over the world.",
     "previewImg": "official15.jpg"
   },
   {
@@ -13,8 +13,8 @@
   },
   {
     "_id": "6185dff27b54baf63473a541",
-    "name": "Canada",
-    "description": "Good ol' Canada eh, explore The Great White North!",
+    "name": "Cities",
+    "description": "A variety of famous cities",
     "previewImg": "official23.jpg"
   },
   {
