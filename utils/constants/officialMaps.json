@@ -12,15 +12,15 @@
     "previewImg": "official24.jpg"
   },
   {
-    "_id": "6185dff27b54baf63473a541",
+    "_id": "6715feea7b9b300e74f6c4a8",
     "name": "Cities",
     "description": "A variety of famous cities",
     "previewImg": "official23.jpg"
   },
   {
-    "_id": "6185e0077b54baf63473a542",
-    "name": "United States",
-    "description": "The land of the free! 50 states of locations waiting for you.",
+    "_id": "6715ee843591e89d4f13b9a6",
+    "name": "World (hard)",
+    "description": "A series of difficult places",
     "previewImg": "official4.jpg"
   }
 ]
