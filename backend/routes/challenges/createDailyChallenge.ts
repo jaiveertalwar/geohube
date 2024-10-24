@@ -1,7 +1,8 @@
 import { ObjectId } from 'mongodb'
 import { NextApiRequest, NextApiResponse } from 'next'
 import { collections, getLocations, throwError } from '@backend/utils'
-import { OFFICIAL_WORLD_ID } from '@utils/constants/random'
+
+const OFFICIAL_WORLD_ID = '6715feea7b9b300e74f6c4a8'; // Directly set the official world ID here
 
 const createDailyChallenge = async (req: NextApiRequest, res: NextApiResponse) => {
   // First set winner for previous daily challenge
